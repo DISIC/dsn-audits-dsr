@@ -1,3 +1,0 @@
-+++
-title = "Plus d'info"
-+++
